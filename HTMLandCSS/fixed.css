@@ -1,0 +1,20 @@
+.box-white1{
+  position: fixed;
+  width: 500px;
+  height: 350px;
+  background: #FFFFFF;
+  border: 2px solid white;
+  top: 6%;
+  left: 3%;
+}
+
+.box-white2{
+  position: fixed;
+  width: 75px;
+  height: 120px;
+  background: #FFFFFF;
+  border: 2px solid white;
+  top: 6%;
+  right: 3%;
+}
+
